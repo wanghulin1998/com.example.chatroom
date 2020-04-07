@@ -1,0 +1,4 @@
+rootProject.name='ChatRoom'
+include ':app'
+include ':app:server'
+include ':client'
